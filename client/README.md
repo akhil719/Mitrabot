@@ -111,8 +111,7 @@ Contributions are what make the open-source community such a fantastic place to 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Chakradhar - iliketocodetrue@gmail.com
-Praneeth Attada - praneethattada18@gmail.com
+AKHIL KUMAR - 76akhil.7@gmail.com
 
 ---
 This README uses Markdown for formatting. For more details on how to use Markdown, check out [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
