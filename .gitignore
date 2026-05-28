@@ -37,3 +37,6 @@ yarn.lock
 
 # Coverage directory used by testing tools
 coverage/
+
+venv/
+node_modules/
