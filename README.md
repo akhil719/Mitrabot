@@ -44,7 +44,7 @@ MitraBot is a compassionate AI-powered mental health chatbot designed to offer s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/praneethattada/MitraBot.git
+git clone https://github.com/akhil719/Mitrabot.git
 cd MitraBot
 ```
 
